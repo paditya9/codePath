@@ -48,7 +48,11 @@ Some applications that intrigue me the most are:
 
 ## Notes
 
-Most intresting part was to understand the concept of how the colors are changing. Something I was stuck was to figure about what "StoryBoard" was and how I can integrate the UI with the logic. But at the end, I was able to figure it out and make it work smoothly
+* ## Leanrning ##
+  + Most interesting part was to understand the concept of how the colors are changing.
+
+* ## Challenge ##
+  + Something I was stuck was to figure out what "StoryBoard" was and how I can integrate the UI with the logic.
 
 ## License
 
