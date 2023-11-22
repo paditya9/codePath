@@ -25,7 +25,9 @@ The following **required** functionality is completed:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/980c862564164c808848238b09ec4c7c-with-play.gif">
     </a>
   </div>
+  
 ## App Brainstorming (Step 4)
+
 Some applications that intrigue me the most are:
 1. Instagram:
   a. Vanish mode 
