@@ -30,23 +30,21 @@ The following **required** functionality is completed:
 
 Some applications that intrigue me the most are:
 1. Instagram:
- * Vanish mode
- * Custom background in chat
-  
-  c. Double tap to like
-  
-  d. Activity feed
+  * Vanish mode
+  * Custom background in chat
+  * Double tap to like
+  * Activity feed
 
-3. Netflix:
-   a. Preview of the movie while hovering
-   b. Multiple user profiles
-   c. Content carousels
-
-4. Google Maps:
-   a. Interactive maps
-   b. Street/3D view
-   c. Timeline bar
-   d. Satellite view 
+2. Netflix:
+  * Preview of the movie while hovering
+  * Multiple user profiles
+  * Content carousels
+    
+3. Google Maps:
+  * Interactive maps
+  * Street/3D view
+  * Timeline bar
+  * Satellite view 
 
 ## Notes
 
