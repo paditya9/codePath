@@ -30,9 +30,8 @@ The following **required** functionality is completed:
 
 Some applications that intrigue me the most are:
 1. Instagram:
-  a. Vanish mode
- 
-  b. Custom background in chat
+ * Vanish mode
+ * Custom background in chat
   
   c. Double tap to like
   
